@@ -1,3 +1,6 @@
 OrderedDictionary {
-	'PrefiguredBlog.package' : #SquotCypressCodeSerializer
+	'PrefiguredBlog.package' : #SquotCypressCodeSerializer,
+	'source\/BaselineOfMagritte.package' : #SquotCypressCodeSerializer,
+	'source\/ConfigurationOfMagritte3.package' : #SquotCypressCodeSerializer,
+	'source\/ConfigurationOfMagritteSeaside.package' : #SquotCypressCodeSerializer
 }

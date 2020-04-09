@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfMagritteSeaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "StephaneDucasse 10/9/2015 15:12",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfMagritteSeaside",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
