@@ -1,0 +1,3 @@
+canBeRoot
+canBeRoot
+	^true

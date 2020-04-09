@@ -1,0 +1,15 @@
+{
+	"category" : "PrefiguredBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aCoupleOfTabs",
+		"selectedTab" ],
+	"name" : "PrefiguredBlogRoot",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"canBeRoot" : "vidak 4/8/2020 09:05",
+		"description" : "vidak 4/8/2020 09:10",
+		"initialize" : "vidak 4/8/2020 09:16" },
+	"instance" : {
+		"initialize" : "vidak 4/8/2020 19:22",
+		"renderChildrenOn:" : "vidak 4/8/2020 09:40",
+		"renderContentOn:" : "vidak 4/8/2020 09:34",
+		"renderHeaderOn:" : "vidak 4/8/2020 09:36",
+		"renderTabsOn:" : "vidak 4/8/2020 09:39",
+		"states" : "vidak 4/8/2020 09:13",
+		"style" : "vidak 4/8/2020 20:01",
+		"title" : "vidak 4/8/2020 11:59",
+		"updateRoot:" : "vidak 4/8/2020 09:12" } }

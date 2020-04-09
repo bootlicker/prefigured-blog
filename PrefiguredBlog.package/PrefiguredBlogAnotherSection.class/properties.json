@@ -1,0 +1,14 @@
+{
+	"category" : "PrefiguredBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PrefiguredBlogAnotherSection",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
